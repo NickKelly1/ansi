@@ -27,7 +27,7 @@ Fork of [`ansi-styles`](https://github.com/chalk/ansi-styles) that supports both
 
 `@nkp/ansi` is a fork of [`ansi-styles`](https://github.com/chalk/ansi-styles) that exports both ESM and CommonJS.
 
-In 2021 [Sindre Sorhus](https://gist.github.com/sindresorhus), prolific creator and maintainer of many popular [`npm packages`](https://www.npmjs.com/~sindresorhus), [including some with over 150 million weekly monthly downloads](https://www.npmjs.com/package/chalk), pushed a new major version removing CommonJS support and making them "pure ESM" packages. This was a major breaking change. Sindre's universally popular packages were now incompatible with a large parts of the NodeJS ecosystem.
+In 2021 [Sindre Sorhus](https://gist.github.com/sindresorhus), prolific creator and maintainer of many popular [`npm packages`](https://www.npmjs.com/~sindresorhus), [including some with over 150 million weekly monthly downloads](https://www.npmjs.com/package/chalk), pushed a new major version of many of his packages removing CommonJS support and making them "pure ESM". This was a major breaking change. Sindre's universally popular packages were now incompatible with a large parts of the NodeJS ecosystem.
 
 Sindre's packages could have been kept backwards compatible by producing both ESM and CJS exports, however [Sindre believed he could push the NodeJS community to adopt ESM sooner by introducing breaking changes](https://blog.sindresorhus.com/get-ready-for-esm-aa53530b3f77).
 
