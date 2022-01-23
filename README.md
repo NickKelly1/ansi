@@ -1,4 +1,4 @@
-# @nkp/ansi
+#packages @nkp/ansi
 
 [![npm version](https://badge.fury.io/js/%40nickkelly1%2Fansi.svg)](https://www.npmjs.com/package/@nkp/ansi)
 [![deploy status](https://github.com/nickkelly1/nkp-ansi/actions/workflows/release.yml/badge.svg)](https://github.com/nickkelly1/nkp-ansi/actions/workflows/release.yml)
