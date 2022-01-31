@@ -14,14 +14,18 @@ Fork of [`ansi-styles`](https://github.com/chalk/ansi-styles) that supports both
 
 ## Table of contents
 
+- [Exports](#exports)
 - [Fork](#fork)
 - [Installation](#installation)
   - [npm](#npm)
   - [yarn](#yarn)
   - [pnpm](#pnpm)
   - [Exports](#exports)
-- [Usage](#usage)
 - [Updating Dependencies](#updating-dependencies)
+
+## Exports
+
+`@nkp/ansi` exports both CommonJS and ES modules.
 
 ## Fork
 
@@ -56,10 +60,6 @@ yarn add @nkp/ansi
 ```sh
 pnpm add @nkp/ansi
 ```
-
-### Exports
-
-`@nkp/ansi` targets CommonJS and ES modules. To utilise ES modules consider using a bundler or setting `package.json#module` to `module`.
 
 ## Updating dependencies
 
