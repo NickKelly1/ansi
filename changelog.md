@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.0.0 - 2022-01-30
+
+Stable release
+
+### Changed
+
+- ci tests on NodeJS LTS releases
+
+### Changed
+
+- Build process
+- package.json exports
+
 ## 0.0.4 - 2022-01-23
 
 ### Changed
