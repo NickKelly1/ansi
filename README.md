@@ -20,8 +20,7 @@ Fork of [`ansi-styles`](https://github.com/chalk/ansi-styles) that supports both
   - [npm](#npm)
   - [yarn](#yarn)
   - [pnpm](#pnpm)
-  - [Exports](#exports)
-- [Updating Dependencies](#updating-dependencies)
+- [Publishing](#publishing)
 
 ## Exports
 
@@ -59,30 +58,6 @@ yarn add @nkp/ansi
 
 ```sh
 pnpm add @nkp/ansi
-```
-
-## Updating dependencies
-
-To update dependencies run one of
-
-```sh
-# if npm
-# update package.json
-npx npm-check-updates -u
-# install
-npm install
-
-# if yarn
-# update package.json
-yarn create npm-check-updates -u
-# install
-yarn
-
-# if pnpm
-# update package.json
-pnpx npm-check-updates -u
-# install
-pnpm install
 ```
 
 ## Publishing
