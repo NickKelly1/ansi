@@ -4,7 +4,7 @@
 
 Stable release
 
-### Changed
+### Added
 
 - ci tests on NodeJS LTS releases
 
