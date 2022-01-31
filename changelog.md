@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1 - 2022-01-30
+
+### Changed
+
+- Fix: release v1.0.0
+
 ## 1.0.0 - 2022-01-30
 
 Stable release
