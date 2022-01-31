@@ -1,7 +1,7 @@
 {
   "name": "@nkp/ansi",
   "sideEffects": false,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ANSI escape codes for terminal styling. Zero dependencies, CJS & ESM compatible.",
   "main": "./cjs/index.js",
   "module": "./esm/index.js",
